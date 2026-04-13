@@ -9,7 +9,7 @@ $ whoami → prowhybraindead
 Turning caffeine + strategy into shipped products — then fragging enemies after hours.
 
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-7F77DD?style=flat-square)
-![AI-First](https://img.shields.io/badge/AI--First-1D9E75?style=flat-square)
+![AI-Collab](https://img.shields.io/badge/AI--First-1D9E75?style=flat-square)
 ![PUBG](https://img.shields.io/badge/PUBG-E24B4A?style=flat-square)
 ![CS2](https://img.shields.io/badge/Counter--Strike%202-639922?style=flat-square)
 ![LoL](https://img.shields.io/badge/League%20of%20Legends-D4537E?style=flat-square)
